@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ftSVvQphFTo=",
+  "dgSpecHash": "syS9HH988FQ=",
   "success": true,
-  "projectFilePath": "D:\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj",
+  "projectFilePath": "C:\\Users\\notefatec\\Desktop\\d_mobile\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\notefatec\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\notefatec\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

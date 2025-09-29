@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>NTMOVEL01-13</Machine>
+    <Machine>NTMOVEL01-17</Machine>
     <WindowsUser>notefatec</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.mauiapphotel</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>A3854B87E2CFD372637053804FBE071BCB8447617186F05789C8B5D67264971E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.mauiapphotel_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.mauiapphotel_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,268 +27,324 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-09-22T11:47:01.666</Modified>
+      <Modified>2025-09-29T13:34:40.997</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-09-22T11:47:01.472</Modified>
+      <Modified>2025-09-29T12:14:45.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.runtimeconfig.json">
       <PackagePath>MauiAppHotel.runtimeconfig.json</PackagePath>
-      <Modified>2025-09-22T11:47:01.233</Modified>
+      <Modified>2025-09-29T11:50:39.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.dll">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.dll">
       <PackagePath>MauiAppHotel.dll</PackagePath>
-      <Modified>2025-09-22T11:47:00.257</Modified>
+      <Modified>2025-09-29T13:34:39.676</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppHotel.exe</PackagePath>
-      <Modified>2025-09-22T11:47:00.276</Modified>
+      <Modified>2025-09-29T13:34:39.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-09-15T11:07:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2025-09-15T11:07:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2025-09-15T11:07:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2025-09-15T11:07:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2025-09-15T11:07:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-09-15T11:07:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-Bold.ttf">
+      <PackagePath>JosefinSans-Bold.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-BoldItalic.ttf">
+      <PackagePath>JosefinSans-BoldItalic.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-ExtraLight.ttf">
+      <PackagePath>JosefinSans-ExtraLight.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-ExtraLightItalic.ttf">
+      <PackagePath>JosefinSans-ExtraLightItalic.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-Italic.ttf">
+      <PackagePath>JosefinSans-Italic.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-Light.ttf">
+      <PackagePath>JosefinSans-Light.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-LightItalic.ttf">
+      <PackagePath>JosefinSans-LightItalic.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-Medium.ttf">
+      <PackagePath>JosefinSans-Medium.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-MediumItalic.ttf">
+      <PackagePath>JosefinSans-MediumItalic.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-Regular.ttf">
+      <PackagePath>JosefinSans-Regular.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-SemiBold.ttf">
+      <PackagePath>JosefinSans-SemiBold.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-SemiBoldItalic.ttf">
+      <PackagePath>JosefinSans-SemiBoldItalic.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-Thin.ttf">
+      <PackagePath>JosefinSans-Thin.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\JosefinSans-ThinItalic.ttf">
+      <PackagePath>JosefinSans-ThinItalic.ttf</PackagePath>
+      <Modified>2025-09-05T00:08:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2025-09-15T11:07:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2025-09-15T11:07:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2025-09-22T11:09:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2025-09-22T11:09:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.deps.json">
+    <AppxPackagedFile Include="C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHotel.deps.json">
       <PackagePath>MauiAppHotel.deps.json</PackagePath>
-      <Modified>2025-09-22T11:47:01.086</Modified>
+      <Modified>2025-09-29T11:50:39.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\notefatec\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

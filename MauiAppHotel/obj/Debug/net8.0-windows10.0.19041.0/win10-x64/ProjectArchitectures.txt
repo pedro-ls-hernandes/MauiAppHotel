@@ -1,1 +1,1 @@
-C:\Users\notefatec\Desktop\MauiAppHotel\MauiAppHotel\MauiAppHotel.csproj;x64
+C:\Users\notefatec\Desktop\d_mobile\MauiAppHotel\MauiAppHotel\MauiAppHotel.csproj;x64

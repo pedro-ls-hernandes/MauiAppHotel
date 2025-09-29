@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj": {}
+    "C:\\Users\\notefatec\\Desktop\\d_mobile\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj": {}
   },
   "projects": {
-    "D:\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj": {
+    "C:\\Users\\notefatec\\Desktop\\d_mobile\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj",
+        "projectUniqueName": "C:\\Users\\notefatec\\Desktop\\d_mobile\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj",
         "projectName": "MauiAppHotel",
-        "projectPath": "D:\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj",
+        "projectPath": "C:\\Users\\notefatec\\Desktop\\d_mobile\\MauiAppHotel\\MauiAppHotel\\MauiAppHotel.csproj",
         "packagesPath": "C:\\Users\\notefatec\\.nuget\\packages\\",
-        "outputPath": "D:\\MauiAppHotel\\MauiAppHotel\\obj\\",
+        "outputPath": "C:\\Users\\notefatec\\Desktop\\d_mobile\\MauiAppHotel\\MauiAppHotel\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
